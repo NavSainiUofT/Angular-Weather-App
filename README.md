@@ -5,3 +5,4 @@ SEE CODE HERE: https://github.com/NavSainiUofT/Weather-App-Code
 ## DEMO ##
 ![image](https://user-images.githubusercontent.com/40246928/191354791-e6273c9c-2fdc-4aa2-885a-fa7fd7689786.png)
 ![image](https://user-images.githubusercontent.com/40246928/191354832-03e2e276-0223-454d-a53f-2cf372e4fbc2.png)
+.
